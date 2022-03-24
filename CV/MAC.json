@@ -45,6 +45,21 @@
         "topic": "First computer",
         "fact": "Something with Windows 95"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Deliveritis Aguda",
+        "type": "other",
+        "URL": "https://www.youtube.com/watch?v=vGCowJY5QCQ",
+        "authors": [
+          {
+            "name": "Carlos",
+            "surnames": "Buenosvinos",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      }
     ]
   },
   "experience": {
