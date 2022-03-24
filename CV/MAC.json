@@ -243,6 +243,38 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "🎉 @streamdevs/webhook - version 1.0.0",
+          "description": "After a few months working on the project, we were confident enought to relase the first stable version.\n",
+          "URL": "https://www.twitch.tv/videos/610282071",
+          "image": {
+            "alt": "63160962.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/178c73b6-0945-4da4-9014-27e713484111_63160962.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2020-05-01",
+        "relatedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "HapiJS",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Open Source"
+        ]
+      }
     ]
   },
   "knowledge": {
