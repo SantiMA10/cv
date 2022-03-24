@@ -48,6 +48,19 @@
     ],
     "recommendations": [
       {
+        "title": "Deja que tu equipo improvise",
+        "type": "other",
+        "URL": "https://www.youtube.com/watch?v=-xg7feGH1m0",
+        "authors": [
+          {
+            "name": "Pablo",
+            "surnames": "Rodriguez",
+            "title": "Author"
+          }
+        ],
+        "summary": "Fue una de las charlas que más recuerdo de mi primer t3chfest y aún en día sigo usando el \"Tú molas!\""
+      },
+      {
         "title": "Deliveritis Aguda",
         "type": "other",
         "URL": "https://www.youtube.com/watch?v=vGCowJY5QCQ",
