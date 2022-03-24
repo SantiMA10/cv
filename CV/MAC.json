@@ -1,0 +1,319 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Santiago",
+      "surnames": "Martin Agra",
+      "title": "Software Engineer",
+      "description": "Mi experiencia profesional empezó en Enero de 2017 con las prácticas de la carrera, pero trasteando programando cosas llevo desde 2011 cuando empece haciendo Homebrews para PSP.\n\nTengo la suerte de que me dedico a algo que me apasiona y si encuentro una cosa con la quiero trastear, ahora mismo en GraphQL, se me pasa el finde volando investigando sobre ello. \n\nTambién me encanta participar en la comunidad, aquí en Asturias siempre que puedo no me pierdo un Meetup. Ademas ahora formo parte de GDGAsturias toca empezar a organizarlos también.\n\nEn Octubre de 2017, junto con un compañero de trabajo, nos presentamos y ganamos el Startup Weekend de Asturias. Desde entonces tenemos \"\"nuestra empresa\"\", de momento somos solo dos autónomos, con la que tratamos de hacer proyectos con tecnologías nuevas y que esperamos que nos den algún beneficio, aunque solo sea que nos cubra ir a algún evento nacional/internacional.\n\nA parte de toda la parte tecnológica lo que me ayuda a desconectar un poco es el baloncesto, que es mi deporte favorito, y ademas tengo la suerte de poder jugar una pachanga cada semana.",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a536bd7f-4b02-4070-923c-73644a5d33a0_photo.jpg"
+      },
+      "location": {
+        "notes": "Asturias, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/santiago-martin-agra/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/SantiMA10"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/SantiMA10/"
+      },
+      {
+        "type": "other",
+        "URL": "https://santiagomartin.dev"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Favorite editor",
+        "fact": "Visual Studio Code"
+      },
+      {
+        "topic": "First computer",
+        "fact": "Something with Windows 95"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Simbiosys",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b929dac6-71c8-42f7-a01d-b24b17d74fdd_download.png"
+          },
+          "URL": "https://www.simbiosys.es/inicio"
+        },
+        "roles": [
+          {
+            "name": "Software Programmer",
+            "startDate": "2017-01-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "During my time at Simbiosys, I helped build various digital products from scratch:\n- Okticket, an expense ticket control application\n- Tech4snow, ski resort status management system, and 2D/3D map updating in real-time.\n- Urbenube, a web digital signage platform with low-cost hardware, is used by several dealers in Spain."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Privacy Cloud",
+          "image": {
+            "alt": "Privacy Cloud",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/d2dd7d5a-d55d-4688-a6e6-0a179eb6f710_qtcgl.png"
+          },
+          "URL": "https://privacycloud.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2019-02-01",
+            "challenges": [
+              {
+                "description": "Since my arrival at PrivacyCloud, my job has been to help create a product that allows us to demonstrate that another vision is possible in the world of advertising, one in which people are in control of their data.\n\nFor this, we have created several prototypes to validate our hypotheses on how to add value to all the people involved: companies that want to find new customers and people who want to be in control of their data without feeling persecuted."
+              }
+            ],
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "TypeORM",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "@streamdevs/webhook",
+          "description": "A webhook to forward GitHub and GitLab events to StreamLabs Alerts and Twitch Chat.\n",
+          "URL": "https://github.com/streamdevs/webhook",
+          "image": {
+            "alt": "63160962.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/07a7c972-1869-455c-bbb4-62c85fcd866d_63160962.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-04-01",
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HapiJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "DevOps for Stream Deck",
+          "description": "A plugin for the \"el gato StreamDeck\" that allows you to quickly check the status of your C/CD environments using your Stream Deck.\n\nCurrently, it has support for: GitHub, GitLab, Vercel, Netlify, and Travis.",
+          "URL": "https://github.com/SantiMA10/devops-streamdeck",
+          "image": {
+            "alt": "categoryIcon.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/320cd453-02bd-4860-8be8-be0cdf1a65cc_categoryicon.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-03-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "App Engine version cleaner",
+          "description": "This projects helps you to keep your App Engine versions clean and tidy, since allows to autoremove old deployments.",
+          "URL": "https://github.com/SantiMA10/app-engine-version-cleaner",
+          "image": {
+            "alt": "broom_1f9f9.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e8923be5-72e4-498e-bef2-b303ce8bf033_broom_1f9f9.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-04-01",
+            "competences": [
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "HapiJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Science",
+        "startDate": "2013-09-01",
+        "finishDate": "2017-07-01",
+        "institution": {
+          "name": "Universidad de Oviedo",
+          "description": "My \"TFG\" was a home automation system, HomePi, developed with:\n\n- TypeScript + NodeJs on a Raspberry Pi and Firebase for the backend.\n- Arduino for the different sensors.\n- Native Android app to control everything.",
+          "URL": "https://github.com/SantiMA10/HomePi",
+          "image": {
+            "alt": "9c9e3aba83845d9529a8c795a283544b_400x400.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7260cbd8-34e7-4c0c-9dd1-b59464175e62_9c9e3aba83845d9529a8.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Arduino",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/santiago-martin-agra/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
