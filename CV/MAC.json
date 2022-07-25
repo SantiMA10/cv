@@ -20,30 +20,30 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/santiago-martin-agra/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/SantiMA10"
+      },
+      {
+        "type": "other",
+        "URL": "https://santiagomartin.dev"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/SantiMA10/"
       },
       {
-        "type": "other",
-        "URL": "https://santiagomartin.dev"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/santiago-martin-agra/"
       }
     ],
     "interestingFacts": [
       {
-        "topic": "Favorite editor",
-        "fact": "Visual Studio Code"
-      },
-      {
         "topic": "First computer",
         "fact": "Something with Windows 95"
+      },
+      {
+        "topic": "Favorite editor",
+        "fact": "Visual Studio Code"
       }
     ],
     "recommendations": [
@@ -70,8 +70,7 @@
             "surnames": "Buenosvinos",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
@@ -79,38 +78,24 @@
     "jobs": [
       {
         "organization": {
-          "name": "Simbiosys",
+          "name": "Voicemod",
           "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b929dac6-71c8-42f7-a01d-b24b17d74fdd_download.png"
+            "alt": "Voicemod_Sawtooth_Logo_Pitch_Black_RGB.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/59cc39a0-a09a-43a7-a76b-47a6e2015eb6_voicemod_sawtooth_lo.png"
           },
-          "URL": "https://www.simbiosys.es/inicio"
+          "URL": "https://www.voicemod.net/"
         },
         "roles": [
           {
-            "name": "Software Programmer",
-            "startDate": "2017-01-01",
-            "finishDate": "2019-02-28",
-            "challenges": [
-              {
-                "description": "During my time at Simbiosys, I helped build various digital products from scratch:\n- Okticket, an expense ticket control application\n- Tech4snow, ski resort status management system, and 2D/3D map updating in real-time.\n- Urbenube, a web digital signage platform with low-cost hardware, is used by several dealers in Spain."
-              }
-            ],
+            "name": "Software Engineer",
+            "startDate": "2022-05-01",
             "competences": [
               {
                 "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Laravel",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
+                "name": "NodeJS",
                 "type": "technology"
               }
             ]
@@ -138,6 +123,18 @@
             ],
             "competences": [
               {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
                 "name": "React",
                 "type": "technology"
               },
@@ -146,23 +143,51 @@
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
                 "name": "TypeORM",
                 "type": "technology"
               },
               {
-                "name": "NodeJS",
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Simbiosys",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b929dac6-71c8-42f7-a01d-b24b17d74fdd_download.png"
+          },
+          "URL": "https://www.simbiosys.es/inicio"
+        },
+        "roles": [
+          {
+            "name": "Software Programmer",
+            "startDate": "2017-01-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "During my time at Simbiosys, I helped build various digital products from scratch:\n- Okticket, an expense ticket control application\n- Tech4snow, ski resort status management system, and 2D/3D map updating in real-time.\n- Urbenube, a web digital signage platform with low-cost hardware, is used by several dealers in Spain."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "NextJS",
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
@@ -171,6 +196,38 @@
       }
     ],
     "projects": [
+      {
+        "details": {
+          "name": "App Engine version cleaner",
+          "description": "This projects helps you to keep your App Engine versions clean and tidy, since allows to autoremove old deployments.",
+          "URL": "https://github.com/SantiMA10/app-engine-version-cleaner",
+          "image": {
+            "alt": "broom_1f9f9.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e8923be5-72e4-498e-bef2-b303ce8bf033_broom_1f9f9.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-04-01",
+            "competences": [
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "HapiJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "details": {
           "name": "@streamdevs/webhook",
@@ -188,14 +245,6 @@
             "startDate": "2020-04-01",
             "competences": [
               {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
                 "name": "GitLab",
                 "type": "technology"
               },
@@ -205,6 +254,14 @@
               },
               {
                 "name": "HapiJS",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -238,38 +295,6 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "App Engine version cleaner",
-          "description": "This projects helps you to keep your App Engine versions clean and tidy, since allows to autoremove old deployments.",
-          "URL": "https://github.com/SantiMA10/app-engine-version-cleaner",
-          "image": {
-            "alt": "broom_1f9f9.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e8923be5-72e4-498e-bef2-b303ce8bf033_broom_1f9f9.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-04-01",
-            "competences": [
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "HapiJS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
@@ -287,7 +312,7 @@
         "publishingDate": "2020-05-01",
         "relatedCompetences": [
           {
-            "name": "TypeScript",
+            "name": "HapiJS",
             "type": "technology"
           },
           {
@@ -295,7 +320,7 @@
             "type": "technology"
           },
           {
-            "name": "HapiJS",
+            "name": "TypeScript",
             "type": "technology"
           }
         ],
@@ -306,6 +331,67 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HapiJS",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
       {
         "studyType": "officialDegree",
@@ -328,11 +414,11 @@
             "type": "technology"
           },
           {
-            "name": "TypeScript",
+            "name": "Arduino",
             "type": "technology"
           },
           {
-            "name": "Arduino",
+            "name": "TypeScript",
             "type": "technology"
           }
         ]
@@ -351,19 +437,15 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JavaScript",
-          "type": "technology"
-        },
-        {
           "name": "Firebase",
           "type": "technology"
         },
         {
-          "name": "TypeScript",
+          "name": "Google Cloud",
           "type": "technology"
         },
         {
-          "name": "React",
+          "name": "JavaScript",
           "type": "technology"
         },
         {
@@ -371,7 +453,11 @@
           "type": "technology"
         },
         {
-          "name": "Google Cloud",
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
           "type": "technology"
         }
       ]
