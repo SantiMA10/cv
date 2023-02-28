@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,13 +9,15 @@
       "name": "Santiago",
       "surnames": "Martin Agra",
       "title": "Software Engineer",
-      "description": "Mi experiencia profesional empezó en Enero de 2017 con las prácticas de la carrera, pero trasteando programando cosas llevo desde 2011 cuando empece haciendo Homebrews para PSP.\n\nTengo la suerte de que me dedico a algo que me apasiona y si encuentro una cosa con la quiero trastear, ahora mismo en GraphQL, se me pasa el finde volando investigando sobre ello. \n\nTambién me encanta participar en la comunidad, aquí en Asturias siempre que puedo no me pierdo un Meetup. Ademas ahora formo parte de GDGAsturias toca empezar a organizarlos también.\n\nEn Octubre de 2017, junto con un compañero de trabajo, nos presentamos y ganamos el Startup Weekend de Asturias. Desde entonces tenemos \"\"nuestra empresa\"\", de momento somos solo dos autónomos, con la que tratamos de hacer proyectos con tecnologías nuevas y que esperamos que nos den algún beneficio, aunque solo sea que nos cubra ir a algún evento nacional/internacional.\n\nA parte de toda la parte tecnológica lo que me ayuda a desconectar un poco es el baloncesto, que es mi deporte favorito, y ademas tengo la suerte de poder jugar una pachanga cada semana.",
+      "description": "",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a536bd7f-4b02-4070-923c-73644a5d33a0_photo.jpg"
       },
       "location": {
-        "notes": "Asturias, Spain"
+        "country": "España",
+        "region": "Principado de Asturias",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -70,7 +72,8 @@
             "surnames": "Buenosvinos",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       }
     ]
   },
@@ -89,6 +92,11 @@
           {
             "name": "Software Engineer",
             "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "JavaScript",
@@ -333,16 +341,11 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "JavaScript",
@@ -351,19 +354,13 @@
       },
       {
         "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React Native",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
           "type": "technology"
         }
       },
@@ -381,7 +378,19 @@
       },
       {
         "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
           "type": "technology"
         }
       },
@@ -460,7 +469,13 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
