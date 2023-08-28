@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,35 +9,17 @@
       "name": "Santiago",
       "surnames": "Martin Agra",
       "title": "Software Engineer",
-      "description": "",
+      "description": "Mi experiencia profesional empezó en Enero de 2017 con las prácticas de la carrera, pero trasteando programando cosas llevo desde 2011 cuando empece haciendo Homebrews para PSP.\n\nTengo la suerte de que me dedico a algo que me apasiona y si encuentro una cosa con la quiero trastear, ahora mismo en GraphQL, se me pasa el finde volando investigando sobre ello. \n\nTambién me encanta participar en la comunidad, aquí en Asturias siempre que puedo no me pierdo un Meetup. Ademas ahora formo parte de GDGAsturias toca empezar a organizarlos también.\n\nEn Octubre de 2017, junto con un compañero de trabajo, nos presentamos y ganamos el Startup Weekend de Asturias. Desde entonces tenemos \"\"nuestra empresa\"\", de momento somos solo dos autónomos, con la que tratamos de hacer proyectos con tecnologías nuevas y que esperamos que nos den algún beneficio, aunque solo sea que nos cubra ir a algún evento nacional/internacional.\n\nA parte de toda la parte tecnológica lo que me ayuda a desconectar un poco es el baloncesto, que es mi deporte favorito, y ademas tengo la suerte de poder jugar una pachanga cada semana.",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a536bd7f-4b02-4070-923c-73644a5d33a0_photo.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a536bd7f-4b02-4070-923c-73644a5d33a0_photo.jpg",
+        "alt": "profile-image"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJnbCeYPqMNg0ROp7GfSvztfg)",
         "country": "España",
-        "region": "Principado de Asturias",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Principado de Asturias"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/SantiMA10"
-      },
-      {
-        "type": "other",
-        "URL": "https://santiagomartin.dev"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/SantiMA10/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/santiago-martin-agra/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "First computer",
@@ -53,14 +35,14 @@
         "title": "Deja que tu equipo improvise",
         "type": "other",
         "URL": "https://www.youtube.com/watch?v=-xg7feGH1m0",
+        "summary": "Fue una de las charlas que más recuerdo de mi primer t3chfest y aún en día sigo usando el \"Tú molas!\"",
         "authors": [
           {
             "name": "Pablo",
             "surnames": "Rodriguez",
             "title": "Author"
           }
-        ],
-        "summary": "Fue una de las charlas que más recuerdo de mi primer t3chfest y aún en día sigo usando el \"Tú molas!\""
+        ]
       },
       {
         "title": "Deliveritis Aguda",
@@ -72,8 +54,13 @@
             "surnames": "Buenosvinos",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://santiagomartin.dev"
       }
     ]
   },
@@ -83,8 +70,8 @@
         "organization": {
           "name": "Voicemod",
           "image": {
-            "alt": "Voicemod_Sawtooth_Logo_Pitch_Black_RGB.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/59cc39a0-a09a-43a7-a76b-47a6e2015eb6_voicemod_sawtooth_lo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/59cc39a0-a09a-43a7-a76b-47a6e2015eb6_voicemod_sawtooth_lo.png",
+            "alt": "Voicemod_Sawtooth_Logo_Pitch_Black_RGB.png"
           },
           "URL": "https://www.voicemod.net/"
         },
@@ -92,11 +79,6 @@
           {
             "name": "Software Engineer",
             "startDate": "2022-05-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "JavaScript",
@@ -114,8 +96,8 @@
         "organization": {
           "name": "Privacy Cloud",
           "image": {
-            "alt": "Privacy Cloud",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/d2dd7d5a-d55d-4688-a6e6-0a179eb6f710_qtcgl.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/d2dd7d5a-d55d-4688-a6e6-0a179eb6f710_qtcgl.png",
+            "alt": "Privacy Cloud"
           },
           "URL": "https://privacycloud.com/"
         },
@@ -166,8 +148,8 @@
         "organization": {
           "name": "Simbiosys",
           "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b929dac6-71c8-42f7-a01d-b24b17d74fdd_download.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b929dac6-71c8-42f7-a01d-b24b17d74fdd_download.png",
+            "alt": "download.png"
           },
           "URL": "https://www.simbiosys.es/inicio"
         },
@@ -210,8 +192,8 @@
           "description": "This projects helps you to keep your App Engine versions clean and tidy, since allows to autoremove old deployments.",
           "URL": "https://github.com/SantiMA10/app-engine-version-cleaner",
           "image": {
-            "alt": "broom_1f9f9.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e8923be5-72e4-498e-bef2-b303ce8bf033_broom_1f9f9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e8923be5-72e4-498e-bef2-b303ce8bf033_broom_1f9f9.png",
+            "alt": "broom_1f9f9.png"
           }
         },
         "type": "openSource",
@@ -238,12 +220,40 @@
       },
       {
         "details": {
+          "name": "DevOps for Stream Deck",
+          "description": "A plugin for the \"el gato StreamDeck\" that allows you to quickly check the status of your C/CD environments using your Stream Deck.\n\nCurrently, it has support for: GitHub, GitLab, Vercel, Netlify, and Travis.",
+          "URL": "https://github.com/SantiMA10/devops-streamdeck",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/320cd453-02bd-4860-8be8-be0cdf1a65cc_categoryicon.png",
+            "alt": "categoryIcon.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-03-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "@streamdevs/webhook",
           "description": "A webhook to forward GitHub and GitLab events to StreamLabs Alerts and Twitch Chat.\n",
           "URL": "https://github.com/streamdevs/webhook",
           "image": {
-            "alt": "63160962.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/07a7c972-1869-455c-bbb4-62c85fcd866d_63160962.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/07a7c972-1869-455c-bbb4-62c85fcd866d_63160962.png",
+            "alt": "63160962.png"
           }
         },
         "type": "openSource",
@@ -275,34 +285,6 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "DevOps for Stream Deck",
-          "description": "A plugin for the \"el gato StreamDeck\" that allows you to quickly check the status of your C/CD environments using your Stream Deck.\n\nCurrently, it has support for: GitHub, GitLab, Vercel, Netlify, and Travis.",
-          "URL": "https://github.com/SantiMA10/devops-streamdeck",
-          "image": {
-            "alt": "categoryIcon.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/320cd453-02bd-4860-8be8-be0cdf1a65cc_categoryicon.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-03-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
@@ -312,12 +294,15 @@
           "description": "After a few months working on the project, we were confident enought to relase the first stable version.\n",
           "URL": "https://www.twitch.tv/videos/610282071",
           "image": {
-            "alt": "63160962.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/178c73b6-0945-4da4-9014-27e713484111_63160962.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/178c73b6-0945-4da4-9014-27e713484111_63160962.png",
+            "alt": "63160962.png"
           }
         },
         "type": "launch",
         "publishingDate": "2020-05-01",
+        "tags": [
+          "Open Source"
+        ],
         "relatedCompetences": [
           {
             "name": "HapiJS",
@@ -331,9 +316,6 @@
             "name": "TypeScript",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Open Source"
         ]
       }
     ]
@@ -341,11 +323,29 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HapiJS",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "JavaScript",
@@ -360,19 +360,7 @@
       },
       {
         "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Firebase",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
+          "name": "NextJS",
           "type": "technology"
         }
       },
@@ -384,19 +372,13 @@
       },
       {
         "skill": {
-          "name": "NextJS",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HapiJS",
+          "name": "Vue",
           "type": "technology"
         }
       }
@@ -407,16 +389,16 @@
         "degreeAchieved": true,
         "name": "Computer Science",
         "startDate": "2013-09-01",
-        "finishDate": "2017-07-01",
         "institution": {
           "name": "Universidad de Oviedo",
           "description": "My \"TFG\" was a home automation system, HomePi, developed with:\n\n- TypeScript + NodeJs on a Raspberry Pi and Firebase for the backend.\n- Arduino for the different sensors.\n- Native Android app to control everything.",
           "URL": "https://github.com/SantiMA10/HomePi",
           "image": {
-            "alt": "9c9e3aba83845d9529a8c795a283544b_400x400.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7260cbd8-34e7-4c0c-9dd1-b59464175e62_9c9e3aba83845d9529a8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7260cbd8-34e7-4c0c-9dd1-b59464175e62_9c9e3aba83845d9529a8.png",
+            "alt": "9c9e3aba83845d9529a8c795a283544b_400x400.png"
           }
         },
+        "finishDate": "2017-07-01",
         "linkedCompetences": [
           {
             "name": "Android",
@@ -432,25 +414,62 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacity for abstract thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/santiago-martin-agra/"
+          "URL": "https://www.linkedin.com/in/santiago-martin-agra/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/SantiMA10",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/SantiMA10/",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "santiagomartinagra@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "672327652",
+          "countryCode": "+34"
         }
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Firebase",
+          "name": "Google Cloud",
           "type": "technology"
         },
         {
-          "name": "Google Cloud",
+          "name": "Google Firebase",
           "type": "technology"
         },
         {
@@ -472,10 +491,32 @@
       ],
       "preferredRoles": [
         "Backend Developer",
-        "Frontend Developer",
         "Full-stack Developer"
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Lo principal para mi es que sea lugar en el que poder aprender con/de mis compañeros, aunque no me importa dedicar un finde o el tiempo sea necesario a aprender X cosa/tecnología, cuando no lo haces solo es más fácil.",
+    "goodPractices": "TDD, me ayuda mucho a la hora de desarrollar de forma iterativa con confianza en que lo que hago tiene sentido.\nCI/CD, otro que me parece super útil, al final para poder hacerlo con confianza se necesitan buenas prácticas, una buena de base de test, una forma de desplegar de forma automatica, feature flags/feature toggles para ocultar funcionalidades...\nEvitar acoplarse al framework/bibliotecas de 3eros en la medida de lo posible, más que para un futuro cambio que pocas veces pasa, si para facilitar las actualizaciones que son mucho más comunes.",
+    "projects": [
+      {
+        "name": "@streamdevs/webhook"
+      },
+      {
+        "name": "App Engine version cleaner"
+      },
+      {
+        "name": "DevOps for Stream Deck"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Deja que tu equipo improvise"
+      },
+      {
+        "name": "Deliveritis Aguda"
+      }
+    ]
   }
 }
