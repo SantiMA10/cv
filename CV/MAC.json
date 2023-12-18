@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -58,6 +58,18 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/santiago-martin-agra/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/SantiMA10"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/SantiMA10/"
+      },
       {
         "type": "other",
         "URL": "https://santiagomartin.dev"
@@ -220,34 +232,6 @@
       },
       {
         "details": {
-          "name": "DevOps for Stream Deck",
-          "description": "A plugin for the \"el gato StreamDeck\" that allows you to quickly check the status of your C/CD environments using your Stream Deck.\n\nCurrently, it has support for: GitHub, GitLab, Vercel, Netlify, and Travis.",
-          "URL": "https://github.com/SantiMA10/devops-streamdeck",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/320cd453-02bd-4860-8be8-be0cdf1a65cc_categoryicon.png",
-            "alt": "categoryIcon.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-03-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "@streamdevs/webhook",
           "description": "A webhook to forward GitHub and GitLab events to StreamLabs Alerts and Twitch Chat.\n",
           "URL": "https://github.com/streamdevs/webhook",
@@ -280,6 +264,34 @@
               },
               {
                 "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "DevOps for Stream Deck",
+          "description": "A plugin for the \"el gato StreamDeck\" that allows you to quickly check the status of your C/CD environments using your Stream Deck.\n\nCurrently, it has support for: GitHub, GitLab, Vercel, Netlify, and Travis.",
+          "URL": "https://github.com/SantiMA10/devops-streamdeck",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/320cd453-02bd-4860-8be8-be0cdf1a65cc_categoryicon.png",
+            "alt": "categoryIcon.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-03-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
                 "type": "technology"
               }
             ]
@@ -324,6 +336,7 @@
     "languages": [
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
