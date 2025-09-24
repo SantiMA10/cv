@@ -464,15 +464,6 @@
           "URL": "https://twitter.com/SantiMA10/",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "santiagomartinagra@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "672327652",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -510,6 +501,24 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Google Cloud",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Lo principal para mi es que sea lugar en el que poder aprender con/de mis compañeros, aunque no me importa dedicar un finde o el tiempo sea necesario a aprender X cosa/tecnología, cuando no lo haces solo es más fácil.",
     "goodPractices": "TDD, me ayuda mucho a la hora de desarrollar de forma iterativa con confianza en que lo que hago tiene sentido.\nCI/CD, otro que me parece super útil, al final para poder hacerlo con confianza se necesitan buenas prácticas, una buena de base de test, una forma de desplegar de forma automatica, feature flags/feature toggles para ocultar funcionalidades...\nEvitar acoplarse al framework/bibliotecas de 3eros en la medida de lo posible, más que para un futuro cambio que pocas veces pasa, si para facilitar las actualizaciones que son mucho más comunes.",
     "projects": [
