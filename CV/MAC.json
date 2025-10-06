@@ -378,7 +378,13 @@
       },
       {
         "skill": {
-          "name": "NextJS",
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
@@ -521,7 +527,11 @@
         "type": "technology"
       },
       {
-        "name": "NextJS",
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
         "type": "technology"
       },
       {
